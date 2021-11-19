@@ -42,7 +42,7 @@
                 </td>
             </tr>
             <tr>
-                <th>Category:</th>
+                <th>Danh sách học sinh</th>
                 <td>
                     <select name="IDstudent">
                         <c:forEach items="${studentList}" var="t">
